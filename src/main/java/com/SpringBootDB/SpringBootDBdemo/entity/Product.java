@@ -15,6 +15,7 @@ public class Product {
 	private String pname;
 	private int quantity;
 	private int unit_price;
+	private int allCost;
 	public Product() {
 		
 	}
